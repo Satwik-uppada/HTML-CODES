@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Borders</title>
+<link rel="stylesheet" herf="style2.css"/>
+</head>
+<body>
+<h1>INTRODUCTION TO CSS</h1>
+<h2>CSS Borders</h2>
+<p>This is the paragraph explain CSS Borders.</p>
+
+
+</body>
+</html>

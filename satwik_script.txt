@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>New</title>
+	<style>
+		body {background-color: powderblue; font-style: oblique;}
+		h1 {color: indianred; font-size: 50px;}	
+	</style>
+</head>
+<body>
+	<h1><a href="google.com">Hello World</a></h1>
+	<p id = "new" style = "color : yellow; font-size: 40px;">
+		<script>document.getElementByid("new").innerHTML="This is Javascript";</script></p>
+</body>
+</html>

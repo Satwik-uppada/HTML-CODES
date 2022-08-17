@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Browsers usally insert quotation marks around the q element.</p>
+<p>WWF's goal is to:<q>Build a future where people .</q>
+
+<body>
+</html>

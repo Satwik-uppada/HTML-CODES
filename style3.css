@@ -1,0 +1,32 @@
+		body{
+			background-color:light green;
+			border: solid red;
+		}
+		h1{ background-color:yellow;
+			border: groove green;
+			margin-top: 80px;
+			margin-right: 40px;
+			margin-bottom: 30px;
+			margin-left: 60px;
+			padding: 25px;
+		}
+		h2{ background-color:red;
+			border: double yellow;
+			width: 300px;
+			margin: auto;
+		}
+		p{
+			background-color: rgb(255, 165, 0);
+		}
+		p.p1{ 
+			border: ridge blue;
+			margin: 50px;
+		}
+		div{ background-color:rgb(30,200,50);
+			border: solid green;
+			margin: 25px 40px;
+		}
+		p.p2{ 
+			border: solid red;
+			margin: inherit;
+		}

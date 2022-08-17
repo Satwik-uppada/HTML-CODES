@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>New</title>
+	<style>
+		body{
+			background: white;
+		}
+		h1{color:skyblue;}
+		p{
+			font-size: 30px;
+		}
+	
+	</style>
+</head>
+<body>
+       <h1>
+       	<pre>
+       		<p style="color: red;">C</p>
+       		<p style="color: darkblue;">O</p>
+       		<p style="color: yellow;">L</p>
+       		<p style="color: green;">O</p>
+       		<p style="color: lightblue;">R</p>
+       	</pre>
+       </h1>
+</body>
+</html>

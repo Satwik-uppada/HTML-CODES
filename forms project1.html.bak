@@ -1,0 +1,21 @@
+<DOCTYPE html>
+ <html>
+  <head>
+   <title>my webpage</title>
+  </head>
+ <body>
+<h3>FORMS IN HTML</h3>
+<form method="POST" action="secondwebpage.html">
+<fieldset>
+<legend>Enter your Details</legend>
+<p> Name:</p>
+<input type="text" name="username" placeholder="Enter ur Name:"/><br/>
+<p>Age</p>
+<input type="number" name="age" placeholder="Enter ur Age:"/></br>
+<p></p>
+<a herf="secondwebpage.html"><input type ="button" name="submit" value="submit" /></a></br>
+</fieldset>
+</form>
+
+ </body>
+</html>

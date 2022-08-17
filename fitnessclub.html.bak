@@ -1,0 +1,81 @@
+<html>
+<head>
+  <title>html table templatle</title>
+ </head>
+ 
+ <body>
+   <table border=1 width=100% cellpadding="10" style="border:2px solid DodgerBlue;" >
+   <caption>Restaurant</caption>
+   
+     <tr style="border:2px solid DodgerBlue;" background=" C:\Users\uppada satwik\Downloads\rastaurant.jpeg">
+	
+	  <td width="75%" colspan="6" >
+	  
+	   <h1><font size="5" color="brown" aligen="left">Restaurant Name</font><h1>
+	   <h2><font size="5" color="brown" aligen="left">Description of Restaurant</font><h2>
+	   
+	   
+	   </td>
+	
+	 <tr/>
+	 
+	 
+    <tr bgcolor="skyblue">
+     <td align="center"><a href="Home.html">Home</a></td>
+	  <td align="center"><a href="About.html">About us </a>  </td>
+	   <td align="center"><a href="Menu.html">Menu</a>  </td>
+	    <td align="center"><a href="Gallary.html">Gallary </a>  </td>
+	     <td align="center"><a href="HealthTips.html">Health Tips</a>  </td>
+		   <td align="center"><a href="Contact us.html">Contact us</a>  </td>
+  	</tr>
+	<tr>
+	</table>
+	<table border=1 width=100% cellpadding="10" style="border:2px solid DodgerBlue;">
+	 <td width="40%">
+	  <marquee direction="up" width="100%" bgcolor="skyblue" scrolldelay=200  align="center">
+	  
+	   Welcome to our Restaurant<br> <hr>
+	        Our Specialites<br> <hr>
+			
+	        1.Robo servents<br> <hr>
+			
+			2.A/C & NON A/C<br> <hr>
+			
+			3.All Indian recipes<br><hr>
+	   
+	  <marquee>
+	 </td>
+	
+	 
+	  <th> <font size="5" color="black" aligen="center-left">Dish of the day</font>
+	  <table border=1 align="center" width="100%" >
+	  <tr>
+	    <td text-align="center" colspan="2" bgcolor="Tomato"  align="center">Chicken Biryani</td>
+	     <td width=25%><img src="C:\Users\uppada satwik\Downloads\chicken biriyani.jpeg" width="150" height="150">
+	      </td>
+	  </tr>
+	 
+	 <tr>
+	  <td  align="center" colspan="3" bgcolor="red"> Special Offers</td>
+	   
+	 </tr>
+	 <tr>
+	 <td align="center" bgcolor="skyblue">Offer-1</td>
+	  <td align="center" bgcolor="skyblue">Offer-2</td>
+	   <td align="center" bgcolor="skyblue">Offer-3</td>
+	 </tr>
+	 
+	 </table>
+	  </td>
+	 
+	 </tr>
+	 </th>
+	 
+	 </tr>
+	 
+		
+   </table>
+</body>
+</html>
+  
+  

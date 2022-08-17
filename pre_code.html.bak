@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>The pre tag preserves both spaces and line breaks:</p>
+<pre>
+<i>My Bonnie lies over the ocean.<i>
+               <b>My Bonnie lies over the sea.<b> 
+			                 <i>My Bonnie lies over the ocean.<i>
+                                                        <b>Oh,My Bonnie lies over the ocean.<b>
+</pre>
+<body>
+</html>

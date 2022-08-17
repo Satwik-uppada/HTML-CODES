@@ -1,0 +1,28 @@
+body{ 
+      border-style:double;
+      border-width:5px;
+	  border-clor:red;}
+h1{    
+      border-style:dashed;
+      border-width:3px;
+	  border-clor:#120abc;}
+	  
+h2{
+      border:solid 4px orange}
+	  
+p{
+      	 border-style:ridge;
+      border-width:2px;
+	  border-clor:rgb(30,200,50);}  
+	 
+#d1{
+      border-top-style:dotted;
+      border-right-style:solid;
+      border-style-bottom:dashed;
+      border-style-left:groove;}
+	  
+#d2{ border-style:dotted solid double;}	  
+	  
+	  
+      	  
+

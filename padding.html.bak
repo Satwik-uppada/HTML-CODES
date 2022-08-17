@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>New</title>
+	<link rel="stylesheet" href="style3.css">
+
+	</style>
+</head>
+<body>
+	<h1>
+		Introduction to CSS
+	</h1>
+	<h2>
+		CSS Margin and Padding
+	</h2>
+	<p class="p1">
+		satwik
+	</p>
+	<div>
+		<p class="p2">
+			this is html ffile
+		</p>
+	</div>
+</body>
+</html>
